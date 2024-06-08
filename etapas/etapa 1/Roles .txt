@@ -1,0 +1,9 @@
+Roles: 
+Rodrigo Chanquey: modelamiento Base de datos, Documentacion
+George Sanhueza: Backend(Codificación)
+Lucas Viveros: Diseño Casos de usos, Frontend
+Ignacio Perez: Frontend(Codificacion
+
+Metodología: Scrum
+
+Tecnologías: Angular,Express, FireBase, Node.js
